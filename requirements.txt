@@ -1,0 +1,6 @@
+flask
+flask_restplus
+pymongo
+pytest
+pytest-bdd
+sqlalchemy
